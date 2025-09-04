@@ -3,6 +3,18 @@ import { Routes, Route, Link } from "react-router-dom";
 import Quiz from "./components/Quiz";
 import Results from "./pages/Results";
 import HighScores from "./pages/HighScores";
+import ReactDOM from "react-dom/client";
+import App from "./App";
+import { BrowserRouter } from "react-router-dom";
+import "./index.css";
+
+ReactDOM.createRoot(document.getElementById("root")).render(
+  <React.StrictMode>
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
+  </React.StrictMode>
+);
 
 export default function App() {
   return (
