@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Which CSS property is used to change the background color of an element?",
+    "options": [
+      "color",
+      "bg-color",
+      "background-color",
+      "background"
+    ],
+    "answerIndex": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which database is considered a NoSQL database?",
+    "options": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Oracle"
+    ],
+    "answerIndex": 2,
+    "difficulty": "hard"
+  },
+  {
+    "question": "Inside which HTML element do we put JavaScript?",
+    "options": [
+      "js",
+      "script",
+      "javascript",
+      "code"
+    ],
+    "answerIndex": 1,
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which keyword is used to declare a constant variable in JavaScript?",
+    "options": [
+      "var",
+      "let",
+      "const",
+      "constant"
+    ],
+    "answerIndex": 2,
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which programming language is officially supported for Android app development?",
+    "options": [
+      "Swift",
+      "Kotlin",
+      "Ruby",
+      "C#"
+    ],
+    "answerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": [
+      "Cascading Style Sheets",
+      "Computer Style Sheets",
+      "Creative Style System",
+      "Colorful Style System"
+    ],
+    "answerIndex": 0,
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which HTML tag is used to display the largest heading?",
+    "options": [
+      "heading",
+      "h6",
+      "h1",
+      "head"
+    ],
+    "answerIndex": 2,
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which company originally developed the Java programming language?",
+    "options": [
+      "Microsoft",
+      "Sun Microsystems",
+      "Oracle",
+      "Google"
+    ],
+    "answerIndex": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which version control system is most widely used in software development?",
+    "options": [
+      "SVN",
+      "Git",
+      "Mercurial",
+      "CVS"
+    ],
+    "answerIndex": 1,
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which protocol is used for secure communication over the web?",
+    "options": [
+      "FTP",
+      "HTTP",
+      "HTTPS",
+      "SMTP"
+    ],
+    "answerIndex": 2,
+    "difficulty": "medium"
+  }
+]
